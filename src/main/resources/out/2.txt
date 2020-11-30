@@ -1,0 +1,1 @@
+{"msg":{"altApts":{"altApt1":["A1","A2","A3"]}}}
