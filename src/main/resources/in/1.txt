@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <msg>
-	<altApts>
-		<altApt1>A1</altApt1>
-		<altApt1>A2</altApt1>
-		<altApt1>A3</altApt1>
-	</altApts>
+	<carryLoad>
+		<luggageCount>111</luggageCount>
+		<mailCount>222</mailCount>
+		<cargoCount>333</cargoCount>
+	</carryLoad>
 </msg>
